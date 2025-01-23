@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">@color/blue</color>
+    <color name="onPrimary">@color/white</color>
+    <color name="secondary">@color/blue</color>
+    <color name="onSecondary">@color/white</color>
+    <color name="background">@color/lime</color>
+    <color name="onBackground">@color/black</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lime">#DFECDB</color>
+    <color name="dark_green">#275718</color>
+    <color name="blue">#5D9CEC</color>
+    <color name="green">#61E757</color>
+    <color name="navy">#0E2849</color>
+    <color name="black_blue">#060E1E</color>
+    <color name="black_blue_light">#141922</color>
+    <color name="grey">#C8C9CB</color>
+    <color name="red">#ff5722</color>
+
+    <color name="bottom_nav_bg_color">@color/white</color>
+
+</resources>
